@@ -1,2 +1,1 @@
-# Responsive-Credit-Card-form
-Alx project 
+# Responsive-Credit-Card-form Alx project
